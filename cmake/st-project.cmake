@@ -65,6 +65,7 @@ target_link_options(
 target_sources(
     ${TARGET_NAME} PRIVATE
     "Core\\Src\\gpio.c"
+    "Core\\Src\\lcd.c"
     "Core\\Src\\main.c"
     "Core\\Src\\stm32f1xx_hal_msp.c"
     "Core\\Src\\stm32f1xx_it.c"

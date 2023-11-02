@@ -138,7 +138,7 @@
 				5,
 				6,
 				7,
-				9,
+				8,
 				10,
 				11,
 				12,
@@ -151,7 +151,8 @@
 				19,
 				20,
 				21,
-				22
+				22,
+				23
 			]
 		},
 		{
@@ -179,7 +180,7 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				8
+				9
 			]
 		}
 	],
@@ -235,7 +236,7 @@
 				5,
 				6,
 				7,
-				9,
+				8,
 				10,
 				11,
 				12,
@@ -248,14 +249,15 @@
 				19,
 				20,
 				21,
-				22
+				22,
+				23
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				8
+				9
 			]
 		}
 	],
@@ -265,6 +267,12 @@
 			"backtrace" : 7,
 			"compileGroupIndex" : 0,
 			"path" : "Core/Src/gpio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 7,
+			"compileGroupIndex" : 0,
+			"path" : "Core/Src/lcd.c",
 			"sourceGroupIndex" : 0
 		},
 		{
